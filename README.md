@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:0969DA,100:00D4FF&text=Pedro%20Gabriel&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Software%20%2B%20Hardware%20%7C%20Python%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20ESP32%20%E2%80%A2%20Web&descAlignY=58&descSize=17&animation=fadeIn&section=header" alt="Banner de Pedro Gabriel" />
 </p>
@@ -78,9 +80,10 @@ Estou aberto a **estágios, oportunidades de entrada na área e colaborações e
   <a href="https://github.com/pedrogabrielev1">
     <img src="https://img.shields.io/badge/GitHub-pedrogabrielev1-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Perfil no GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/pedro-gabriel-a1b337366">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Pedro Gabriel" />
+  </a>
 </p>
-
- <a href="www.linkedin.com/in/pedro-gabriel-a1b337366"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,55:0969DA,100:00D4FF&section=footer" alt="Rodapé" />
