@@ -80,11 +80,7 @@ Estou aberto a **estágios, oportunidades de entrada na área e colaborações e
   </a>
 </p>
 
-<!--
-  Quando você tiver LinkedIn e e-mail profissional, adicione os dois aqui.
-  Exemplo de LinkedIn:
-  <a href="SEU_LINK"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
+ <a href="www.linkedin.com/in/pedro-gabriel-a1b337366"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,55:0969DA,100:00D4FF&section=footer" alt="Rodapé" />
